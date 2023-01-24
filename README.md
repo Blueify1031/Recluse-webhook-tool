@@ -3,7 +3,7 @@
 A webhook tool that i wrote in python, i will update soon
 
 --------------------------------------
-#COMING SOON!
+COMING SOON!
 ---------------
 -GUI
 

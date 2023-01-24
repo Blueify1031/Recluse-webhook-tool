@@ -1,8 +1,9 @@
 # Recluse-webhook-tool
 --------------------------------------
-A cool webhook tool, Easy to use!
+A webhook tool that i wrote in python, i will update soon
+
 --------------------------------------
-
-
-Made by blueify#6971 !
+#COMING SOON!
+---------------
+-GUI
 

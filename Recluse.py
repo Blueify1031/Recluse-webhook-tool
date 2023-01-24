@@ -2,13 +2,13 @@ import os
 import requests
 import time
 
-
+def dontclose():
+    input()# this code prevents the program from closing!
 
 while True:
-
     os.system('cls' if os.name=='nt' else 'clear')
 
-    print("!   Recluse WebHook tool   !")
+    print("!Recluse WebHook tool!")
     print("")
     print("")
     print("")
@@ -21,7 +21,7 @@ while True:
 
     select = input("[+] Select an option: ")
     if select == "1":
-        print("")
+        print(f"\n")
 
         os.system('cls' if os.name=='nt' else 'clear')
 
@@ -29,11 +29,11 @@ while True:
         print("")
         print("")
         print("")
-        webhook_url = input("[+] Webhook url: ")
+        webhook_url = input("[*] Webhook url: ")
 
         spamming = True
         if spamming == True:
-            message = input("[+] Message to send: ")
+            message = input("[*] Message to send: ")
             print("")
             while spamming == True:
 
